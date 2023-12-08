@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieShow Clone</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_release_date">12th Dec 2023</string>
+    <string name="move_avg_voting">3.4</string>
+    <string name="movie_total_vote">2345</string>
+    <string name="error_text">Opps! Something Went Wrong :(</string>
+    <string name="error_no_internet">Opps! There is no internet :(</string>
+
+</resources>
